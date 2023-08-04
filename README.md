@@ -2,4 +2,4 @@
 Some description!
 
 ## Sub header
-Hey this is subheader text.
+Hey this is subheader text!
